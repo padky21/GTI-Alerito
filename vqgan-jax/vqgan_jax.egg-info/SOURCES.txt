@@ -1,0 +1,11 @@
+README.md
+setup.py
+vqgan_jax/__init__.py
+vqgan_jax/configuration_vqgan.py
+vqgan_jax/convert_pt_model_to_jax.py
+vqgan_jax/modeling_flax_vqgan.py
+vqgan_jax.egg-info/PKG-INFO
+vqgan_jax.egg-info/SOURCES.txt
+vqgan_jax.egg-info/dependency_links.txt
+vqgan_jax.egg-info/requires.txt
+vqgan_jax.egg-info/top_level.txt
